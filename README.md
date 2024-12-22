@@ -21,7 +21,7 @@ A **ReactJS**-based web application designed to provide users with a seamless an
 ## How to Run Locally 🚀  
 1. Clone the repository:  
    ```bash  
-   git clone <repository-link>  
+   git clone https://github.com/VINAY-SANDEEP/Gift-Store.git
 2. Navigate to the project directory
    ```bash  
    cd gift-store  
