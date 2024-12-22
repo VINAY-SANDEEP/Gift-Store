@@ -1,8 +1,36 @@
-# React + Vite
+# Gift Store 🎁  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **ReactJS**-based web application designed to provide users with a seamless and engaging shopping experience.  
 
-Currently, two official plugins are available:
+## Features ✨  
+- **Interactive User Interface**:  
+  - CSS animations, hover effects, and gradient backgrounds for a visually appealing design.  
+- **Dynamic Components**:  
+  - Reusable and modular React components for efficient code management.  
+- **User-Friendly Functionality**:  
+  - Browse categories, search for gifts, and view detailed product information.  
+- **Future Enhancements**:  
+  - Backend integration for real-time inventory management and payment gateway support.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used 🛠️  
+- **Frontend**: ReactJS, CSS3  
+- **State Management**: React State  
+- **Animations**: CSS transitions and hover effects  
+  
+
+## How to Run Locally 🚀  
+1. Clone the repository:  
+   ```bash  
+   git clone <repository-link>  
+2. Navigate to the project directory
+   ```bash  
+   cd gift-store  
+ 
+3. Install dependencies 
+   ```bash  
+   npm install  
+
+4.Start the development server: 
+   ```bash  
+    npm start  
+ 
